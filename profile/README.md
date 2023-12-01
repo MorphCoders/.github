@@ -23,7 +23,7 @@ Ready to join the revolution? We're always on the lookout for passionate individ
 
 ### 🚀 Start Hacking
 
-Got a killer idea or a burning desire to build something extraordinary? Join one of our hackathons and let the coding frenzy begin! Keep an eye on our [Projects](#) page for ongoing and completed masterpieces crafted by our talented community.
+Got a killer idea or a burning desire to build something extraordinary? Join one of our hackathons and let the coding frenzy begin! Keep an eye on our [Projects](https://github.com/orgs/MorphCoders/repositories) page for ongoing and completed masterpieces crafted by our talented community.
 
 
 ## Spread the Word
