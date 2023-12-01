@@ -1,6 +1,4 @@
-## Hi there 👋 Welcome to our Hack Team org MorphCoders !! where we innovate and deploy ✨🚀
-
-# Hackathon Heroes 🚀
+# Hi there 👋 Welcome to our Hack Team org MorphCoders !! where we innovate and deploy ✨🚀
 
 Welcome to the home of innovation, creativity, and pure hacking magic! 🎉
 
